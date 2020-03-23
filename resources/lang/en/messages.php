@@ -6,4 +6,5 @@ return [
     'task' => 'Task',
     'add_task' => 'Add Task',
     'current_tasks' => 'Current Tasks',
+    'new_task' => 'New tasks',
 ];
